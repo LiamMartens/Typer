@@ -1,5 +1,5 @@
 # Typer
-Javascript library to type out stuff
+Extendable Javascript library to type out stuff
 
 ## How to use
 ### Create an instance
